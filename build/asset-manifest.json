@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wealth_Track/static/css/main.5c0cbe6d.css",
+    "main.js": "/Wealth_Track/static/js/main.b50e428a.js",
+    "index.html": "/Wealth_Track/index.html",
+    "main.5c0cbe6d.css.map": "/Wealth_Track/static/css/main.5c0cbe6d.css.map",
+    "main.b50e428a.js.map": "/Wealth_Track/static/js/main.b50e428a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c0cbe6d.css",
+    "static/js/main.b50e428a.js"
+  ]
+}
